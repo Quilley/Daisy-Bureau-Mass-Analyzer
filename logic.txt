@@ -1,1 +1,3 @@
-
+The script has 2 different components. What the script does is the following: 
+1. Let's assume the directory where the script is stored is "Master Directory" which also contains multiple .pdf files which are various CIBIL pdfs for different customers
+2. When the code is executed it searches the Master Directory and goes to every pdf one by one and calls the Consumer_Call_Master (from Consumer_CIBIL_function.py) with the one pdf file as an argument 
